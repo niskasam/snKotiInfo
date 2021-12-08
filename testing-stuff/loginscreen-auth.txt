@@ -1,0 +1,16 @@
+  /*   const [username, setUsername] = useState("");
+  const [password, setPassword] = useState("");
+
+  const navigation = useNavigation();
+
+  useEffect(() => {
+    navigation.navigate("Kirjaudu");
+  }, []);
+
+  const handleLogin = () => {
+    if (username === "test" && password === "password") {
+      navigation.navigate("Koti");
+    } else {
+      Alert.alert("Username and/or password is wrong!");
+    }
+  }; */
